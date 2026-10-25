@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/kanhaiyakumarkeshri">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    
   </a>
   <img src="https://komarev.com/ghpvc/?username=kanhaiyakumarkeshri&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/kanhaiyakumarkeshri?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
