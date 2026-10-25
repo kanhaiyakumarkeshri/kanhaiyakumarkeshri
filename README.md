@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanhaiyakumar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kanhaiyakumar?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <a href="https://github.com/kanhaiyakumarkeshri">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kanhaiyakumarkeshri&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kanhaiyakumarkeshri?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
@@ -17,9 +20,12 @@
 
 * 👋 Hi, I'm **Kanhaiya Kumar**, a developer from India.
 * 💻 Interested in **Java Full Stack Development** and modern web technologies.
-* 🌱 Continuously learning programming, web development, and software engineering.
+* 🌱 Continuously learning Java, JavaScript, SQL, and software development.
 * 🛠️ Enjoy building projects and improving my problem-solving skills.
-* 🎯 Goal: Grow as a developer and contribute to meaningful projects.
+* 🎯 Goal: Become a skilled developer and contribute to meaningful projects.
+* 🍔 Built a Swiggy Clone using HTML and CSS.
+* 🎬 Practiced website development by creating a Netflix Clone.
+* 🏍️ Worked on a Bike Rental System project.
 * 📫 Email: **[kanhaiyakumarkeshri810@gmail.com](mailto:kanhaiyakumarkeshri810@gmail.com)**
 
 ---
@@ -35,12 +41,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kanhaiyakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyakumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kanhaiyakumarkeshri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyakumarkeshri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
+---
+
+## 🔥 GitHub Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhaiyakumar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=kanhaiyakumarkeshri&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -48,15 +58,17 @@
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanhaiyakumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kanhaiyakumarkeshri&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" width="100%" />
+  </a>
 </p>
 
 ---
@@ -64,37 +76,51 @@
 ## ⭐ GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/kanhaiyakumar?style=for-the-badge&logo=github&label=Public%20Repositories&color=blue" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/stars/kanhaiyakumar?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repos/kanhaiyakumarkeshri?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/stars/kanhaiyakumarkeshri?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/kanhaiyakumarkeshri?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🍔 Swiggy Clone
+
+A food delivery website interface inspired by Swiggy.
+
+* **Technologies:** HTML, CSS
+* **Features:** Homepage layout, food categories, restaurant cards, and styling.
+* **Purpose:** Frontend development practice.
+
 <p align="center">
-  <a href="https://github.com/kanhaiyakumar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanhaiyakumar&repo=swiggy-clone&theme=tokyonight&hide_border=true" alt="Swiggy Clone Project" />
+  <a href="https://github.com/kanhaiyakumarkeshri?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories" />
   </a>
 </p>
 
-**🍔 Swiggy Clone**
+### 🎬 Netflix Clone
 
-* A food delivery website UI inspired by Swiggy.
-* Built using HTML and CSS.
-* Focused on page layout, styling, and responsive design.
+A Netflix-inspired website created for frontend development practice.
 
-> **Important:** If your repository is not named `swiggy-clone`, replace `swiggy-clone` in the project card URL with your actual repository name.
+* **Technologies:** HTML, CSS
+* **Focus:** Page layout, styling, and user interface design.
+
+### 🏍️ Bike Rental System
+
+A project focused on bike rental and booking management.
+
+* **Focus:** Understanding application structure and rental workflows.
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kanhaiyakumarkeshri">
+  <a href="https://www.linkedin.com/in/kanhaiyakumarkeshri/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/kanhaiya_kumar__keshri">
+  <a href="https://www.instagram.com/kanhaiya_kumar__keshri/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/u/kanhaiyakumar810/">
