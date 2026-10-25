@@ -61,11 +61,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=github-compact"
+    alt="GitHub Contribution Activity Graph"
     width="100%"
   />
 </p>
+
 
 
 
@@ -79,15 +80,7 @@
 
 ---
 
-## ⭐ GitHub Overview
 
-<p align="center">
-  <img src="https://img.shields.io/github/repos/kanhaiyakumarkeshri?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/stars/kanhaiyakumarkeshri?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/kanhaiyakumarkeshri?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
