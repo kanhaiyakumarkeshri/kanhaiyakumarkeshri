@@ -60,6 +60,18 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
 </p>
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/kanhaiyakumarkeshri">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=tokyo-night&hide_border=true&area=true"
+      alt="Kanhaiya's GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
 
 ---
 
