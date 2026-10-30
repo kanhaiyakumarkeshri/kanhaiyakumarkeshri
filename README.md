@@ -57,7 +57,7 @@
 
 
 
-## 📈 Contribution Activity Graph
+
 
 <h2 align="left">📈 Contribution Activity Graph</h2>
 
@@ -65,14 +65,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
+<h2 align="left">🏆 GitHub Profile Trophies</h2>
 
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kanhaiyakumarkeshri&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" width="100%" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanhaiyakumarkeshri&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" />
+</div>
 
 ---
 
