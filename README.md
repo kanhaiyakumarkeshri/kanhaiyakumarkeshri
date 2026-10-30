@@ -59,15 +59,11 @@
 
 ## 📈 Contribution Activity Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=github-compact"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
+<h2 align="left">📈 Contribution Activity Graph</h2>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanhaiyakumarkeshri&theme=react-dark&hide_border=true" width="100%" />
+</div>
 
 
 ## 🏆 GitHub Profile Trophies
